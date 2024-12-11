@@ -1,8 +1,5 @@
 ## Hi there! I,m Megha!👋
 
-<!--
-**MeghaSharma0027/MeghaSharma0027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 **I’m currently working on**:  
    - Innovative projects like a *Task Scheduler and Deadline Tracker* and a *Chrome extension for form-filling assistance*.  
    - Expanding *CodePatternsHub* to support multiple languages.  
@@ -26,9 +23,3 @@
    - Email: [YourEmail@example.com]  
    - GitHub: [YourGitHubProfileLink]  
    - LinkedIn: [YourLinkedInProfileLink]  
-
-- 😄 **Pronouns**: She/Her  
-
-- ⚡ **Fun fact**:  
-   - I can dive into hours of coding and still find time to discuss strategy board games like chess (currently exploring Python-based chess tools!). 
--->
